@@ -1,7 +1,7 @@
 # YIPPEEEEEEEE
 YIPPE
 EE
-<title>yipe<title>
+<title>yipe</title>
 <!DOCTYPE html>
 <html lang="en">
 <head>
